@@ -1,1 +1,1 @@
-You can run ds.sh to 
+You can check run.sh to run the code 
