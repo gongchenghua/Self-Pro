@@ -1,0 +1,2 @@
+cornell --epochs 50 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 4096 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 206 222 34 1 138 158 211 109 468 140   Final Test: 0.5892 ± 0.0480
+cornell --epochs 50 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 4096 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 206 222 34 1 138 158 211 109 468 140   Final Test: 0.5892 ± 0.0480

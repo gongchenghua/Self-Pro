@@ -1,0 +1,3 @@
+chameleon --epochs 30 --seed 0 --lr 0.0001 --moving_average_decay 0.999 --dimension 4096 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 491 465 390 476 390 408 493 484 478 451   Final Test: 0.6761 ± 0.0191
+chameleon --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.999 --dimension 1024 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 469 421 496 491 408 492 432 423 481 456   Final Test: 0.6311 ± 0.0183
+chameleon --epochs 30 --seed 0 --lr 0.0001 --moving_average_decay 0.999 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 421 488 490 467 440 231 465 423 435 475   Final Test: 0.6509 ± 0.0214

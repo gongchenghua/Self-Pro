@@ -1,0 +1,6 @@
+texas --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.75 --best_epochs 80 410 486 280 367 455 99 309 308 194   Final Test: 0.7054 ± 0.0645
+texas --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.75 --best_epochs 80 410 486 280 367 455 99 309 308 194   Final Test: 0.7054 ± 0.0645
+texas --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.75 --best_epochs 80 410 486 280 367 455 99 309 308 194   Final Test: 0.7054 ± 0.0645
+texas --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.75 --best_epochs 80 410 486 280 367 455 99 309 308 194   Final Test: 0.7054 ± 0.0645
+texas --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.75 --best_epochs 80 410 486 280 367 455 99 309 308 194   Final Test: 0.7054 ± 0.0645
+texas --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.75 --best_epochs 80 410 486 280 367 455 99 309 308 194   Final Test: 0.7054 ± 0.0645

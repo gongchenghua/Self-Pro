@@ -1,0 +1,1 @@
+crocodile --epochs 50 --seed 0 --lr 0.0001 --moving_average_decay 0.97 --dimension 128 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 316 414 353 415 344 273 401 493 275 499   Final Test: 0.6555 ± 0.0084

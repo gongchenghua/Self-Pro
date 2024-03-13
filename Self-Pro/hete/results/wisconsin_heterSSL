@@ -1,0 +1,3 @@
+wisconsin --epochs 50 --seed 0 --lr 0.0001 --moving_average_decay 0.97 --dimension 4096 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 68 247 337 249 275 11 423 134 137 178   Final Test: 0.6824 ± 0.0546
+wisconsin --epochs 50 --seed 0 --lr 0.0001 --moving_average_decay 0.97 --dimension 512 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 53 36 14 21 449 380 40 479 19 42   Final Test: 0.6569 ± 0.0498
+wisconsin --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.97 --dimension 4096 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 241 432 289 126 340 11 198 100 174 121   Final Test: 0.6882 ± 0.0507

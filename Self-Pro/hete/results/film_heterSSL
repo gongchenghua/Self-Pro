@@ -1,0 +1,1 @@
+film --epochs 50 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 4096 --sample_size 5 --wd2 1e-05 --num_MLP 2 --tau 1.0 --best_epochs 65 75 53 187 370 343 387 302 76 345   Final Test: 0.2957 ± 0.0090

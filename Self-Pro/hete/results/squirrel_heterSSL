@@ -1,0 +1,4 @@
+squirrel --epochs 10 --seed 0 --lr 0.0001 --moving_average_decay 0.97 --dimension 8192 --sample_size 10 --wd2 1e-05 --num_MLP 1 --tau 0.25 --best_epochs 433 466 453 481 441 449 450 452 462 469   Final Test: 0.5280 ± 0.0192
+squirrel --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.97 --dimension 512 --sample_size 10 --wd2 1e-05 --num_MLP 1 --tau 0.25 --best_epochs 418 478 496 280 496 479 475 491 484 477   Final Test: 0.4381 ± 0.0128
+squirrel --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.95 --dimension 256 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.5 --best_epochs 488 395 497 435 459 482 466 499 461 473   Final Test: 0.3917 ± 0.0161
+squirrel --epochs 40 --seed 0 --lr 0.0001 --moving_average_decay 0.999 --dimension 2048 --sample_size 5 --wd2 1e-05 --num_MLP 1 --tau 0.25 --best_epochs 465 493 488 482 492   Final Test: 0.5189 ± 0.0051
